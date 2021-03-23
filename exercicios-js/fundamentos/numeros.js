@@ -1,7 +1,7 @@
 // criando constantes que receberam dois valores númericos
-// a prineira constante é atribuindo valor de forma direta
+// a primeira constante é atribuindo valor de forma direta
 // enquanto a segunda constante é unsado o método number,
-// que vai receber uma string '2.0', e vai enterder ela como um
+// que vai receber uma string '2.0', e vai entender ela como um
 // número.
 const peso1 = 1.0
 const peso2 =   Number('2.0')
@@ -11,11 +11,11 @@ const peso2 =   Number('2.0')
 console.log(peso1,peso2)
 
 
-// usnado usando o isInteger, método para vereficar se a constante é um número inteiro
+// usando o isInteger, método para vereficar se a constante é um número inteiro
 console.log(Number.isInteger(peso1))
 
 
-//usnado usando o isInteger, método para vereficar se a constante é um número inteiro
+// usando o isInteger, método para vereficar se a constante é um número inteiro
 console.log(Number.isInteger(peso2))
 
 
@@ -35,7 +35,7 @@ const media = total / (peso1 + peso2)
 console.log(media.toFixed(2))
 
 
-// usando método tostring, passando assimo valor para biário
+// usando método tostring, passando assim o valor para biário
 console.log(media.toString(2))
 
 
