@@ -1,4 +1,7 @@
-var a = 3
+// para teste de commit
+
+
+var a = 30
 let b = 40
 
 var a = 30
