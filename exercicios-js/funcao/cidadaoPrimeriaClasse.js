@@ -24,6 +24,9 @@ function run(fun){
 run(function(){console.log('Executando....')})
 
 
+// teste commmit
+
+
 
 // Uma função pode retornar/conter uma função
 function soma(a, b){
