@@ -35,7 +35,7 @@ console.log(Object.keys(pessoa))
 
 const dest = { a: 1 }
 const o1 = { b: 2 }
-const o2 = { c: 3, a: 4}
+const o2 = { c: 3, a: 4 }
 // o primeiro parâmetro ira receber os demais dentro dele, caso alguns dos outros objetos
 // tenha um parametro igual ele ira sobrescrever o valor, e as chaves valor que não existirem
 // no primeiro objeto, seram adicionados vindo dos outros.
