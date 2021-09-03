@@ -8,6 +8,9 @@ const volvo = {
     velMax: 200
 }
 
+
+// entende como funciona herença apartir da função Object
+
 console.log(ferrari.__proto__)
 console.log(ferrari.__proto__ === Object.prototype)
 console.log(volvo.__proto__ === Object.prototype)
