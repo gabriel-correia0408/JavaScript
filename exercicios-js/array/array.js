@@ -21,7 +21,7 @@ console.log(aprovados[8] === undefined) // true
 
 console.log(aprovados)
 
-console.log(aprovados)
+console.log(aprovados) // comentario de teste git hub
 aprovados.sort() //  ordena os dados dentro do array
 console.log(aprovados)
 
